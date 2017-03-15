@@ -5,6 +5,7 @@ sqlite是一款轻型的数据库，是遵守ACID的关系型数据库管理系�
 ```sh
 sudo apt-get install sqlite3
 ```
+![](http://p1.bpimg.com/1949/3a1a101bb0b946f0.png)
 ## 3. 安装sqlite的C语言库
 ```sh
 1. sudo apt-get update
