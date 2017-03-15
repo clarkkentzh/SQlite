@@ -62,7 +62,9 @@ sqlite> update usr set gender = ‘man’，name = ‘lisi’ where id = 3;
 ```
 6. 查询数据：
 ```sh
-sqlite> select * from usr where id = 2;
+sqlite>.header on
+sqlite>.mode column       
+sqlite> select * from usr where id = 2;       //此三个命令被用来设置正确格式化的输出。
 ```
 7. 修改表的名称
 ```sh
