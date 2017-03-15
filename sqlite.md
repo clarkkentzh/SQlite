@@ -71,8 +71,6 @@ sqlite> select * from usr where id = 2;       //此三个命令被用来设�
 ```sh
 sqlite> alter table oldname rename to newname;
 ```
-
-
-
-
+# 参考学习
+* [RUNOOB.COM] (http://www.runoob.com/sqlite/sqlite-select.html)
 
