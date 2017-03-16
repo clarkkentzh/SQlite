@@ -269,4 +269,4 @@ int do_update(sqlite3 *db)
 }
 ```
 # 参考资料
-* [网址](http://www.runoob.com/sqlite/sqlite-c-cpp.html)
+* [网址] (http://www.runoob.com/sqlite/sqlite-c-cpp.html)
